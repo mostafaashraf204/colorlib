@@ -1,0 +1,719 @@
+                                                @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+                                                @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+                                                body {
+                                                    margin: 0;
+                                                    padding: 0;
+                                                }
+                                                
+                                                .div_for_fornt_page_for_home_screen {
+                                                    width: 100%;
+                                                    height: 99.4vh;
+                                                    background-image: url('../photo/front-page-header.jpg');
+                                                    background-size: cover;
+                                                    background-repeat: no-repeat;
+                                                    background-attachment: fixed;
+                                                }
+                                                
+                                                .div_for_nav_bar_ul_li ul {
+                                                    list-style-type: none;
+                                                    margin-left: 40%;
+                                                    margin-top: 2%;
+                                                    font-family: 'Lato', sans-serif;
+                                                    font-size: 14px;
+                                                    font-weight: bold;
+                                                }
+                                                
+                                                .div_for_nav_bar_ul_li ul li {
+                                                    display: inline;
+                                                    padding-left: 3.5%;
+                                                }
+                                                
+                                                .div_for_nav_bar_ul_li ul li a {
+                                                    text-decoration: none;
+                                                    color: #fff;
+                                                    font-size: 16px;
+                                                    line-height: 26px;
+                                                    background-color: transparent;
+                                                }
+                                                
+                                                .div_for_nav_bar_ul_li ul li a:hover {
+                                                    color: #ffde00;
+                                                }
+                                                
+                                                .img {
+                                                    margin-top: -5%;
+                                                    margin-left: -43.1%;
+                                                }
+                                                
+                                                span {
+                                                    color: #ffde00;
+                                                }
+                                                
+                                                .h1_in_div_in_div_for_front_page {
+                                                    margin: 250px 0 29px 490px;
+                                                    line-height: 100px;
+                                                    font-weight: bolder;
+                                                    font-size: 80px;
+                                                    font-family: 'Poppins', sans-serif;
+                                                    color: white;
+                                                }
+                                                
+                                                .p_in_div_in_div_for_front_page {
+                                                    margin: 0px 0 29px 400px;
+                                                    font-family: 'Lato', sans-serif;
+                                                    font-size: 16px;
+                                                    font-weight: 400;
+                                                    text-indent: 50px;
+                                                    color: white;
+                                                }
+                                                
+                                                .btn {
+                                                    font-size: 16px;
+                                                    border: 3px solid white;
+                                                    border-radius: 3px;
+                                                    color: white;
+                                                    background-color: transparent;
+                                                    width: 240px;
+                                                    height: 64px;
+                                                    margin: 40px 15px 0 700px;
+                                                    padding: 0 70px;
+                                                    font-family: 'Lato', sans-serif;
+                                                    font-weight: 600;
+                                                }
+                                                
+                                                .btn2 {
+                                                    font-size: 16px;
+                                                    border: 1px solid #f1d204;
+                                                    border-radius: 3px;
+                                                    background-color: #f1d204;
+                                                    color: white;
+                                                    font-family: 'Lato', sans-serif;
+                                                    font-weight: 600;
+                                                    width: 240px;
+                                                    height: 64px;
+                                                    margin: 50px 15px 0 20px;
+                                                    padding: 0 70px;
+                                                    transition: 0.4s;
+                                                }
+                                                
+                                                .btn2:hover {
+                                                    background-color: #8043b9;
+                                                    border-color: #8244bb;
+                                                }
+                                                
+                                                .div_for_space_white_for_about {
+                                                    width: 100%;
+                                                    height: 52vh;
+                                                }
+                                                
+                                                .div_for_space_white_for_about h3 {
+                                                    color: #545454;
+                                                    font-size: 35px;
+                                                    line-height: 38px;
+                                                    font-weight: bolder;
+                                                    font-family: 'Poppins', sans-serif;
+                                                    margin: 50px 0px 0px 900px;
+                                                }
+                                                
+                                                .p {
+                                                    color: #8c9597;
+                                                    line-height: 26px;
+                                                    font-size: 16px;
+                                                    font-weight: 400;
+                                                    font-family: 'Lato', sans-serif;
+                                                    width: 50%;
+                                                    margin: auto;
+                                                }
+                                                
+                                                .top {
+                                                    margin-top: 2%;
+                                                }
+                                                
+                                                .div_for_space_white_for_about img {
+                                                    margin-left: 19%;
+                                                    margin-top: 5%;
+                                                }
+                                                
+                                                .P {
+                                                    color: rgb(241, 139, 109);
+                                                    line-height: 26px;
+                                                    font-size: 16px;
+                                                    font-family: 'Lato', sans-serif;
+                                                    margin: -10px 0 0 385px;
+                                                }
+                                                
+                                                .pp {
+                                                    color: rgb(241, 210, 4);
+                                                    line-height: 26px;
+                                                    font-size: 16px;
+                                                    margin: -24px 0 0 777px;
+                                                    font-family: 'Lato', sans-serif;
+                                                }
+                                                
+                                                .ppp {
+                                                    color: rgb(106, 77, 138);
+                                                    line-height: 26px;
+                                                    font-size: 16px;
+                                                    margin: -24px 0 0 1165px;
+                                                    font-family: 'Lato', sans-serif;
+                                                }
+                                                
+                                                .div_for_backgound_for_liner {
+                                                    width: 100%;
+                                                    height: 19vh;
+                                                    background-image: linear-gradient(135deg, #fcfcfc 41.67%, #ededed 41.67%, #ededed 50%, #fcfcfc 50%, #fcfcfc 91.67%, #ededed 91.67%, #ededed 100%);
+                                                    background-size: 8.49px 8.49px;
+                                                }
+                                                
+                                                h3 {
+                                                    color: #545454;
+                                                    font-size: 35px;
+                                                    line-height: 38px;
+                                                    font-weight: bolder;
+                                                    font-family: 'Poppins', sans-serif;
+                                                    padding: 65px 0 0 0;
+                                                    margin-left: 46%;
+                                                }
+                                                
+                                                .p_in_div_for_backgound_for_liner {
+                                                    color: #8c9597;
+                                                    font-size: 16px;
+                                                    font-family: 'Lato', sans-serif;
+                                                    margin-left: 43%;
+                                                    margin-top: -1%;
+                                                }
+                                                
+                                                .img_in_one_line {
+                                                    text-align: center;
+                                                    float: left;
+                                                }
+                                                
+                                                .img_in_one_line img {
+                                                    width: 475.7px;
+                                                    height: 476px;
+                                                    cursor: pointer;
+                                                    transition: 1s;
+                                                }
+                                                
+                                                .img_in_one_line:hover {
+                                                    opacity: 0.5;
+                                                }
+                                                
+                                                .claer {
+                                                    clear: both;
+                                                }
+                                                
+                                                .div_for_img_spcae {
+                                                    margin-top: -0.2%;
+                                                    width: 100%;
+                                                    height: 68vh;
+                                                    background-image: url('../photo/testiomnials-background.jpg');
+                                                    background-repeat: no-repeat;
+                                                    background-size: cover;
+                                                }
+                                                
+                                                .div_for_img_spcae h3 {
+                                                    color: white;
+                                                    font-size: 35px;
+                                                    line-height: 38px;
+                                                    font-weight: 700;
+                                                    margin-top: -2%;
+                                                    margin-left: 44%;
+                                                }
+                                                
+                                                .div_for_img_spcae img {
+                                                    border-radius: 50%;
+                                                    margin-top: 1%;
+                                                    margin-left: 47%;
+                                                }
+                                                
+                                                .div_for_space_for_blueviolet {
+                                                    width: 57%;
+                                                    height: 18vh;
+                                                    margin: 40px 0 0 420px;
+                                                    background-color: #6a4d8a;
+                                                }
+                                                
+                                                .div_for_space_for_blueviolet p {
+                                                    color: white;
+                                                    color: #fff;
+                                                    font-size: 16px;
+                                                    font-family: 'Lato', sans-serif;
+                                                    font-weight: 400;
+                                                    width: 90%;
+                                                    margin: auto;
+                                                }
+                                                
+                                                .ppppp {
+                                                    padding-top: 5%;
+                                                }
+                                                
+                                                .tryangle {
+                                                    border-style: solid;
+                                                    border-width: 19px 18px 0 18px;
+                                                    border-color: #6a4d8a transparent transparent transparent;
+                                                    position: absolute;
+                                                    margin-left: 49.5%;
+                                                }
+                                                
+                                                .h6 {
+                                                    font-size: 20px;
+                                                    line-height: 24px;
+                                                    font-weight: 700;
+                                                    color: white;
+                                                    font-family: 'Poppins', sans-serif;
+                                                    margin: 50px 0 0 910px;
+                                                }
+                                                
+                                                .div_for_sevices_for_space_white {
+                                                    width: 100%;
+                                                    height: 60vh;
+                                                }
+                                                
+                                                .services {
+                                                    margin-top: -1%;
+                                                    color: #545454;
+                                                    font-size: 35px;
+                                                    font-weight: bold;
+                                                    font-family: 'Poppins', sans-serif;
+                                                }
+                                                
+                                                .div_for_sevices_for_space_white p {
+                                                    color: #8c9597;
+                                                    font-size: 16px;
+                                                    font-family: 'Lato', sans-serif;
+                                                    font-weight: 500;
+                                                    margin-left: 31%;
+                                                    margin-top: -1%;
+                                                }
+                                                
+                                                .pencil {
+                                                    color: rgb(241, 139, 109);
+                                                    font-size: 27px;
+                                                    line-height: 32px;
+                                                    font-weight: 700;
+                                                    margin: -350px 0 0 510px;
+                                                    font-family: 'Poppins', sans-serif;
+                                                }
+                                                
+                                                .postion {
+                                                    color: rgb(241, 139, 109);
+                                                    margin-left: 53px;
+                                                }
+                                                
+                                                .web_desgin_in_div_servies {
+                                                    width: 20%;
+                                                    color: #8c9597;
+                                                    font-weight: 400;
+                                                    font-size: 16px;
+                                                    line-height: 26px;
+                                                    font-family: 'Lato', sans-serif;
+                                                    margin: 30px 0 0 400px;
+                                                }
+                                                
+                                                .code {
+                                                    font-size: 27px;
+                                                    line-height: 32px;
+                                                    font-weight: 700;
+                                                    margin: -190px 0 0 830px;
+                                                    color: rgb(241, 210, 4);
+                                                    font-family: 'Poppins', sans-serif;
+                                                }
+                                                
+                                                .code_postion {
+                                                    margin-left: 120px;
+                                                    color: rgb(241, 210, 4);
+                                                }
+                                                
+                                                .web_develoment {
+                                                    width: 20%;
+                                                    color: #8c9597;
+                                                    font-weight: 400;
+                                                    font-size: 16px;
+                                                    line-height: 26px;
+                                                    font-family: 'Lato', sans-serif;
+                                                    margin: 20px 0 0 800px;
+                                                }
+                                                
+                                                .Search {
+                                                    font-size: 27px;
+                                                    line-height: 32px;
+                                                    font-weight: 700;
+                                                    margin: -190px 0 0 70%;
+                                                    color: rgb(106, 77, 138);
+                                                    font-family: 'Poppins', sans-serif;
+                                                }
+                                                
+                                                .search {
+                                                    margin-left: 50px;
+                                                    color: rgb(106, 77, 138);
+                                                }
+                                                
+                                                .SEO_Analisys {
+                                                    width: 20%;
+                                                    color: #8c9597;
+                                                    font-weight: 400;
+                                                    font-size: 16px;
+                                                    line-height: 26px;
+                                                    font-family: 'Lato', sans-serif;
+                                                    margin: 20px 0 0 65%;
+                                                }
+                                                
+                                                .div_for_gray_space {
+                                                    width: 100%;
+                                                    height: 110vh;
+                                                    background-color: #222f36;
+                                                }
+                                                
+                                                .div_for_gray_space h1 {
+                                                    margin-left: 45%;
+                                                    padding-top: 4%;
+                                                    font-size: 35px;
+                                                    line-height: 38px;
+                                                    font-weight: 700;
+                                                    color: white;
+                                                    font-family: 'Poppins', sans-serif;
+                                                }
+                                                
+                                                .titles_in_div p {
+                                                    margin-top: -1%;
+                                                    margin-left: 30%;
+                                                    line-height: 26px;
+                                                    font-size: 16px;
+                                                    color: #8c9597;
+                                                    font-family: 'Lato', sans-serif;
+                                                    font-weight: 400;
+                                                }
+                                                
+                                                .button_in_titles_in_div {
+                                                    margin-left: 46.2%;
+                                                    margin-top: 2.4%;
+                                                    padding: 0 35px;
+                                                    min-height: 45px;
+                                                    line-height: 45px;
+                                                    background: #f1d204;
+                                                    color: #f7f7f7;
+                                                    font-weight: 700;
+                                                    font-size: 16px;
+                                                    transition: 0.2s;
+                                                }
+                                                
+                                                .button_in_titles_in_div:hover {
+                                                    border: #6a4d8a;
+                                                    background-color: #6a4d8a;
+                                                }
+                                                
+                                                .center {
+                                                    margin-left: 18%;
+                                                }
+                                                
+                                                .divs_for_three_blocks_center_page {
+                                                    margin-left: 2%;
+                                                    margin-top: 4%;
+                                                    width: 23%;
+                                                    min-height: 550px;
+                                                    background-color: white;
+                                                    float: left;
+                                                }
+                                                
+                                                .divs_for_three_blocks_center_pagee {
+                                                    margin-left: 2%;
+                                                    margin-top: 4%;
+                                                    width: 23%;
+                                                    min-height: 580px;
+                                                    background-color: white;
+                                                    float: left;
+                                                }
+                                                
+                                                .divs_for_three_blocks_center_page img {
+                                                    width: 100%;
+                                                    height: 213%;
+                                                    background-position: center;
+                                                }
+                                                
+                                                .divs_for_three_blocks_center_page h5 a {
+                                                    text-decoration: none;
+                                                    padding: 0 30px;
+                                                    width: 10%;
+                                                    color: #5e5e5e;
+                                                    font-size: 23px;
+                                                    line-height: 32px;
+                                                    font-weight: 700;
+                                                    font-family: 'Poppins', sans-serif;
+                                                    transition: 0.3s;
+                                                }
+                                                
+                                                .divs_for_three_blocks_center_pagee h5 a {
+                                                    text-decoration: none;
+                                                    padding: 0 30px;
+                                                    width: 10%;
+                                                    color: #5e5e5e;
+                                                    font-size: 23px;
+                                                    line-height: 32px;
+                                                    font-weight: 700;
+                                                    font-family: 'Poppins', sans-serif;
+                                                    transition: 0.3s;
+                                                }
+                                                
+                                                .divs_for_three_blocks_center_page h5 a:hover {
+                                                    color: #f1d204;
+                                                }
+                                                
+                                                .divs_for_three_blocks_center_pagee h5 a:hover {
+                                                    color: #f1d204;
+                                                }
+                                                
+                                                .a {
+                                                    text-decoration: none;
+                                                    padding: 0 30px;
+                                                    width: 13%;
+                                                    color: #5e5e5e;
+                                                    font-size: 23px;
+                                                    line-height: 32px;
+                                                    font-weight: 700;
+                                                    font-family: 'Poppins', sans-serif;
+                                                    transition: 0.3s;
+                                                }
+                                                
+                                                .a:hover {
+                                                    color: #f1d204;
+                                                }
+                                                
+                                                .div_for_pragragh {
+                                                    margin: 40px 0 55px 0;
+                                                    padding: 0 30px;
+                                                    line-height: 26px;
+                                                    color: #8c9597;
+                                                    font-size: 16px;
+                                                }
+                                                
+                                                .link_for_read_more {
+                                                    text-decoration: none;
+                                                    line-height: 26px;
+                                                    padding: 0 30px;
+                                                    font-size: 16px;
+                                                    font-family: 'Lato', sans-serif;
+                                                    color: #f1d204;
+                                                    transition: 0.2s;
+                                                }
+                                                
+                                                .link_for_read_more:hover {
+                                                    color: #723ea1;
+                                                }
+                                                
+                                                .messes {
+                                                    text-decoration: none;
+                                                    padding: 0 30px;
+                                                    width: 13%;
+                                                    color: #5e5e5e;
+                                                    font-size: 23px;
+                                                    line-height: 32px;
+                                                    font-weight: 700;
+                                                    font-family: 'Poppins', sans-serif;
+                                                    transition: 0.3s;
+                                                }
+                                                
+                                                .messes:hover {
+                                                    color: #f1d204;
+                                                }
+                                                
+                                                .div_for_back_ground_yallow {
+                                                    width: 100%;
+                                                    height: 20vh;
+                                                    background-image: url('../photo/front-page-counter.jpg');
+                                                    background-attachment: fixed;
+                                                    position: relative;
+                                                    background-position: center;
+                                                    background-size: cover;
+                                                }
+                                                
+                                                .Number_of_projects {
+                                                    font-size: 70px;
+                                                    font-weight: bolder;
+                                                    color: white;
+                                                    font-family: 'Poppins', sans-serif;
+                                                    margin: 5px 0 0 480px;
+                                                }
+                                                
+                                                .projects {
+                                                    font-size: 25px;
+                                                    font-weight: bolder;
+                                                    color: white;
+                                                    font-family: 'Poppins', sans-serif;
+                                                    margin: -10px 0 0 490px;
+                                                }
+                                                
+                                                .line_for_projects {
+                                                    width: 1px;
+                                                    height: 10vh;
+                                                    background-color: rgb(255, 255, 255);
+                                                    margin: -100px 0 0 740px;
+                                                }
+                                                
+                                                .line_for_clients {
+                                                    width: 1px;
+                                                    height: 10vh;
+                                                    background-color: rgb(255, 255, 255);
+                                                    margin: -100px 0 0 1150px;
+                                                }
+                                                
+                                                .Number_of_clients {
+                                                    font-size: 70px;
+                                                    font-weight: bolder;
+                                                    color: rgb(255, 255, 255);
+                                                    font-family: 'Poppins', sans-serif;
+                                                    margin: -120px 0 0 900px;
+                                                }
+                                                
+                                                .clients {
+                                                    font-size: 25px;
+                                                    font-weight: bolder;
+                                                    color: white;
+                                                    font-family: 'Poppins', sans-serif;
+                                                    margin: -10px 0 0 910px;
+                                                }
+                                                
+                                                .Number_of_coffes {
+                                                    font-size: 70px;
+                                                    font-weight: bolder;
+                                                    color: rgb(255, 255, 255);
+                                                    font-family: 'Poppins', sans-serif;
+                                                    margin: -130px 0 0 1280px;
+                                                }
+                                                
+                                                .coffes {
+                                                    font-size: 25px;
+                                                    font-weight: bolder;
+                                                    color: white;
+                                                    font-family: 'Poppins', sans-serif;
+                                                    margin: -10px 0 0 1300px;
+                                                }
+                                                
+                                                .div_in_lines_of_liner {
+                                                    width: 100%;
+                                                    height: 50vh;
+                                                    background-image: linear-gradient(138deg, #ebebeb 8.33%, #f5f5f5 8.33%, #f5f5f5 50%, #ebebeb 50%, #ebebeb 58.33%, #f5f5f5 58.33%, #f5f5f5 100%);
+                                                    background-size: 8.97px 8.07px;
+                                                }
+                                                
+                                                .Team_in_div_lines_of_liner {
+                                                    margin: 43px 0 0 910px;
+                                                    font-size: 35px;
+                                                    line-height: 38px;
+                                                    font-weight: 900;
+                                                    font-family: 'Poppins', sans-serif;
+                                                    color: #545454;
+                                                }
+                                                
+                                                .p_in_Team_in_div_lines_of_liner {
+                                                    margin: 15px 0 0 740px;
+                                                    font-size: 16px;
+                                                    color: #8c9597;
+                                                    font-family: 'Lato', sans-serif;
+                                                    font-weight: 400;
+                                                }
+                                                
+                                                .img_in_div_in_div_liner {
+                                                    margin-top: 2%;
+                                                    margin-left: 18%;
+                                                    border-radius: 50%;
+                                                }
+                                                
+                                                .postion_in_liner h6 {
+                                                    width: 100%;
+                                                    margin: 12px 0 5px 0;
+                                                    color: #5e5e5e;
+                                                    font-size: 20px;
+                                                    line-height: 24px;
+                                                    font-weight: 700;
+                                                    font-family: 'Poppins', sans-serif;
+                                                }
+                                                
+                                                .colorrrr {
+                                                    color: rgb(241, 139, 109);
+                                                }
+                                                
+                                                .postion_in_liner {
+                                                    margin: -130px 0 0 26.8%;
+                                                }
+                                                
+                                                .pragragh_in_liner {
+                                                    width: 100%;
+                                                    margin: 0 0 10px 0;
+                                                    color: #8c9597;
+                                                    line-height: 20px;
+                                                }
+                                                
+                                                .icons {
+                                                    margin-left: 0.4%;
+                                                }
+                                                
+                                                .icons a {
+                                                    text-decoration: none;
+                                                    color: rgb(241, 139, 109);
+                                                }
+                                                
+                                                .imgg_in_div_in_div_liner {
+                                                    border-radius: 50%;
+                                                }
+                                                
+                                                .imggg {
+                                                    margin-top: -8.2%;
+                                                    margin-left: 45%;
+                                                }
+                                                
+                                                .postion_in_linerr h6 {
+                                                    width: 100%;
+                                                    margin: 12px 0 5px 0;
+                                                    color: #5e5e5e;
+                                                    font-size: 20px;
+                                                    line-height: 24px;
+                                                    font-weight: 700;
+                                                    font-family: 'Poppins', sans-serif;
+                                                }
+                                                
+                                                .postion_in_linerr {
+                                                    margin: -130px 0 0 53.6%;
+                                                }
+                                                
+                                                .colorrrrr {
+                                                    color: rgb(241, 210, 4);
+                                                }
+                                                
+                                                .iconss a {
+                                                    text-decoration: none;
+                                                    color: rgb(241, 210, 4);
+                                                }
+                                                
+                                                .imgggg {
+                                                    margin-top: -8.2%;
+                                                    margin-left: 70%;
+                                                }
+                                                
+                                                .postion_in_linerrr h6 {
+                                                    width: 100%;
+                                                    margin: 12px 0 5px 0;
+                                                    color: #5e5e5e;
+                                                    font-size: 20px;
+                                                    line-height: 24px;
+                                                    font-weight: 700;
+                                                    font-family: 'Poppins', sans-serif;
+                                                }
+                                                
+                                                .postion_in_linerrr {
+                                                    margin: -130px 0 0 78%;
+                                                }
+                                                
+                                                .colorrrrrr {
+                                                    color: rgb(106, 77, 138);
+                                                }
+                                                
+                                                .iconss a {
+                                                    text-decoration: none;
+                                                    color: rgb(106, 77, 138);
+                                                }
+                                                
+                                                .posstion {
+                                                    margin-top: 3%;
+                                                    margin-left: -7%;
+                                                }
